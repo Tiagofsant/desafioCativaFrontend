@@ -1,0 +1,12 @@
+.testimonial-container {
+  background-color: #fff;
+  padding: 50px;
+}
+
+.testimonial-content {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 30px;
+  justify-content: center;
+}

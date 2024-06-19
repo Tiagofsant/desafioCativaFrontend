@@ -1,0 +1,17 @@
+.card-top {
+  width: 250px;
+  height: 250px;
+  background-color: #003881;
+}
+
+.card-down {
+  width: 250px;
+  height: 150px;
+  background-color: #fdc52a;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px;
+  margin-top: -30px;
+  padding: 10px;
+}

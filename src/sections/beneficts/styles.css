@@ -1,0 +1,14 @@
+.beneficits-container {
+  background-color: #f0f0f0;
+  padding: 30px;
+}
+
+.beneficits-content {
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
